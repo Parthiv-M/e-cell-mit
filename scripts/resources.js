@@ -165,7 +165,4 @@ const getResources = async() => {
     }
 }
 
-//Listening to scroll events on the document
-document.addEventListener("scroll", changeNavbarStyle)
-
 getResources();
