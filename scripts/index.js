@@ -66,9 +66,9 @@ const hideEventDetails = (e) => {
 // Function to fetch details about the team members from the JSON file hosted on Github
 const getTeamMembers = async() => {
     let innerHTML_container = "";
-    const teamMemberData = await fetch('https://raw.githubusercontent.com/canaryGrapher/E-cell-MIT/parthiv/scripts/data/team.json');
+    const teamMemberData = await fetch('https://raw.githubusercontent.com/Parthiv-M/e-cell-mit/master/scripts/data/team.json');
     const parsedMemberData = await teamMemberData.json();
-    
+
     // check and swap the order of first two team members on smaller screens
     if(screen.width < 800) {
         let x = parsedMemberData[1];
@@ -154,7 +154,10 @@ const sendEmail = () => {
     });
 }
 
-
+// naviagte to resources page
+const gotoresources = () => {
+    window.location.href = "resources.html";
+}
 
 //Listening to scroll events on the document
 document.addEventListener("scroll", changeNavbarStyle)

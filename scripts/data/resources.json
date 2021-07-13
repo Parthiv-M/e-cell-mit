@@ -1,0 +1,86 @@
+[
+    {
+        "podcasts": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    },
+    {
+        "videos": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    },
+    {
+        "newsletter": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    },
+    {
+        "blogs": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    },
+    {
+        "webseries": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    },
+    {
+        "events": [
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            },
+            {
+                "name": "xyz",
+                "short": "one",
+                "link": "https://beta.ecellmit.com"
+            }
+        ]
+    }
+];

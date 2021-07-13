@@ -291,6 +291,32 @@
         width: fit-content;
     }
 
+    .material-image {
+        height: 400px;
+        background-image: url("./../images/learning.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+    }
+
+    .material-image button {
+        background-color: transparent; 
+        height: 60px; 
+        width: 150px; 
+        border-radius: 2rem; 
+        font-size: 1.24rem; 
+        font-weight: bold; 
+        color: white!important;
+        border: 3px solid white;
+    }
+
+    .material-image button:hover {
+        background-color: white;
+        color: black!important;
+    }
+
     /* Fourth page design */
     
     .slide-4 {

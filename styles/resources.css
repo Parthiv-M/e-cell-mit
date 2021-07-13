@@ -1,0 +1,248 @@
+@font-face {
+    font-family: punch;
+    src: url("../fonts/punch.otf");
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    overflow-x: hidden;
+    font-family: 'Ubuntu', sans-serif!important;
+}
+
+body {
+    background-color: #000000;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Customization for scrollbar */
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #5CE1E6 rgb(0, 0, 0);
+}
+
+/* Works on Chrome, Edge, and Safari */
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #5CE1E6;
+    border-radius: 20px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+/* resources landing page */
+
+.slide-1{
+    min-height: 100vh;
+    width: 100vw!important;
+}
+
+.slide-heading {
+    font-size: 5rem;
+    font-weight: 800;
+}
+
+.sub-heading {
+    font-size: 2rem;
+    color: #5CE1E6!important;
+}
+
+.type-card {
+    height: 200px;
+}
+
+.type-card a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.type-card a div:hover {
+    backdrop-filter: blur(10px);
+}
+
+.type-card div:nth-child(1){
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.type-subhead {
+    font-size: 1.5rem;
+}
+
+.type-slide {
+    position: relative;
+    min-height: 75vh;
+    width: 100vw!important;
+}
+
+#podcast-card {
+    background-image: url("./../images/learning/podcast.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#videos-card {
+    background-image: url("./../images/learning/videos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#newsletter-card {
+    background-image: url("./../images/learning/newsletter.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#blog-card {
+    background-image: url("./../images/learning/blog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#webseries-card {
+    background-image: url("./../images/learning/webseries.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#events-card {
+    background-image: url("./../images/learning/events.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.primary-tile {
+    height: 60vh;
+}
+
+.primary-tile a {
+    text-decoration: none;
+}
+
+.primary-tile a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.primary-tile h2 {
+    font-size: 2rem;
+    color: white;
+}
+
+.primary-tile p {
+    font-size: 1.3rem;
+    color: #5CE1E6;
+}
+
+.secondary-tile {
+    height: 30vh;
+}
+
+.secondary-tile a {
+    text-decoration: none;
+}
+
+.secondary-tile h2 {
+    font-size: 1.4rem;
+    color: white;
+}
+
+.secondary-tile p {
+    font-size: 1.2rem;
+    color: #5CE1E6;
+}
+
+.secondary-tile a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.side-tile {
+    height: 14.4vh;
+}
+
+.side-tile h2 {
+    font-size: 1.3rem;
+    color: #121212;
+}
+
+.side-tile p {
+    font-size: 1.1rem;
+}
+
+.side-tile a {
+    text-decoration: none;
+}
+
+.side-tile a:hover {
+    text-decoration: underline;
+    color: #121212;
+}
+
+/* podcasts design */
+
+#podcasts .primary-tile {
+    background-image: url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_611453342_2000133420009280107_130377.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#podcasts .secondary-tile {
+    background-image: url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_611453342_2000133420009280107_130377.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page-info {
+    min-height: 30vh;
+    background-color: #000000;
+    border-width: 4px 0 0 0;
+    border-color: #5CE1E6;
+    border-style: solid;
+}
+
+.address-line {
+    text-align: left;
+}
+
+.social-links>a {
+    font-size: 1.4rem;
+    color: #5CE1E6;
+    margin: auto 10px;
+}
+
+.social-links>a:hover {
+    color: #fafafa;
+}
+
+/* mobile design */
+
+@media only screen and (max-width: 800px) {
+    .slide-heading {
+        font-size: 3rem;
+    }
+    .sub-heading {
+        font-size: 1.3rem;
+    }
+}
