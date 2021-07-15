@@ -5,7 +5,7 @@
                 "name": "The GaryVee Audio Experience",
                 "short": "Keynote speeches on marketing and business, interviews, and fireside chats by Gary Vaynerchuck are blended with his current thoughts for an engaging audio experience",
                 "tag" : "",
-                "link": "https://podcasts.google.com/feed/aHR0cDovL2Fza2dhcnl2ZWUuZ2FyeXZlZS5saWJzeW5wcm8uY29tL3Jzcw"
+                "link": "https://www.garyvaynerchuk.com/"
             },
             {
                 "name": "a16z podcast",
@@ -23,7 +23,7 @@
                 "name": "The Tim Ferris Show",
                 "short": "Produced by a self-experimenter and bestselling author, Tim Ferriss deconstructs world-class professionals from diverse areas digging deep to find tools, tactics, and tricks we can use",
                 "tag" : "",
-                "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c"
+                "link": "https://tim.blog/podcast/"
             },
             {
                 "name": "HBR Ideacast",
@@ -50,7 +50,7 @@
             {
                 "name": "Ted Talks",
                 "short": "one",
-                "tag" : "",
+                "tag" : "Educational",
                 "link": "https://www.youtube.com/user/tedxtalks"
             },
             {
@@ -68,7 +68,7 @@
             {
                 "name": "Stanford Business",
                 "short": "one",
-                "tag" : "",
+                "tag" : "Business",
                 "link": "https://www.youtube.com/user/stanfordbusiness"
             },
             {
@@ -86,7 +86,7 @@
             {
                 "name": "Google Small Business",
                 "short": "one",
-                "tag" : "",
+                "tag" : "Business",
                 "link": "https://www.youtube.com/user/googlebusiness"
             }
         ]
@@ -108,7 +108,7 @@
             {
                 "name": "A Junior VC",
                 "short": "From talks with budding venture capitalists to encouraging more entrepreners to realise their dreams in the global arena, A Junior VC is the right place for your start-up round-up",
-                "tag" : "Venture Capitalist",
+                "tag" : "Venture Capital",
                 "link": "https://ajuniorvc.com/"
             }
         ]
@@ -164,13 +164,13 @@
             {
                 "name": "Shark Tank",
                 "short": "Primarily for entertainment, this television show will keep you hooked to it with the contestant's wild ideas and creative ventures which they hope to turn into reality with corporate support",
-                "tag" : "",
+                "tag" : "Idea Pitch",
                 "link": "https://www.primevideo.com/detail/Shark-Tank/0IIHHUF3EKQEAET75E9Z0VICL9?ref_=dvm_pds_gen_in_as_s_gt_dsaweballd_mkw_1EJRA0tl-dc_pcrid_{adid}&mrntrk=slid__pgrid_84880667963_pgeo_9040215_x__ptid_dsa-19959388920"
             },
             {
                 "name": "Silicon Valley",
                 "short": "Sprinked with humour, this web series takes you on a virtual tour of the Silicon Valley start-up ecosystem and the challenges every small company faces in the rat-race to success",
-                "tag" : "",
+                "tag" : "Start-up",
                 "link": "https://www.hotstar.com/in/tv/silicon-valley/8210"
             }
         ]
