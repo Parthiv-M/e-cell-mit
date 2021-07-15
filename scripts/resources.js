@@ -23,6 +23,9 @@ const getResources = async() => {
                       <a href="${allResources[dummy_incrementor][0].link}" target="_blank">
                         <h2 class="mb-1">${allResources[dummy_incrementor][0].name}</h2>
                       </a>
+                      ${ allResources[dummy_incrementor][0].tag ? `<p class="my-2 border p-2 text-white" style="border-radius: 1rem">
+                            ${allResources[dummy_incrementor][0].tag}
+                        </p>` : ""}
                       <p>${allResources[dummy_incrementor][0].short}</p>
                   </div>
               </div>
@@ -38,6 +41,9 @@ const getResources = async() => {
                                     ${allResources[dummy_incrementor][1].name}
                                 </h2>
                             </a>
+                            ${ allResources[dummy_incrementor][1].tag ? `<p class="my-2 border p-2 text-white" style="border-radius: 1rem">
+                                ${allResources[dummy_incrementor][1].tag}
+                            </p>` : ""} 
                             <p>
                                 ${allResources[dummy_incrementor][1].short} 
                             </p>
@@ -58,6 +64,9 @@ const getResources = async() => {
                                             ${allResources[dummy_incrementor][2].name}
                                         </h2>
                                     </a>
+                                    ${ allResources[dummy_incrementor][2].tag ? `<p class="my-2 border border-dark p-1 text-muted" style="border-radius: 1rem; font-size: 1rem">
+                                        ${allResources[dummy_incrementor][2].tag}
+                                    </p>` : "" }
                                     <p class="text-muted">
                                         ${allResources[dummy_incrementor][2].short} 
                                     </p>
@@ -80,29 +89,10 @@ const getResources = async() => {
                                             ${allResources[dummy_incrementor][3].name}
                                         </h2>
                                     </a>
-                                    <p class="text-muted">
-                                        ${allResources[dummy_incrementor][3].short} 
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>` 
-                    : 
-                    "" 
-                }
-                ${ 
-                    allResources[dummy_incrementor][3] 
-                    ? `
-                    <div class="col-md-6 col-12">
-                        <a href="${allResources[dummy_incrementor][3].link}" target="_blank" class="h-100 w-100">
-                            <div class="p-3 border bg-light side-tile">
-                                <div class="container-fluid d-flex flex-column h-100 justify-content-start align-items-start">
-                                    <a href="${allResources[dummy_incrementor][3].link}" target="_blank">
-                                        <h2 class="mb-1">
-                                            ${allResources[dummy_incrementor][3].name}
-                                        </h2>
-                                    </a>
-                                    <p class="text-muted">
+                                    ${ allResources[dummy_incrementor][3].tag ? `<p class="my-2 border border-dark p-1 text-muted" style="border-radius: 1rem; font-size: 1rem">
+                                        ${allResources[dummy_incrementor][3].tag}
+                                    </p>` : "" }
+                                    <p class="text-muted" style="font-size: 1rem">
                                         ${allResources[dummy_incrementor][3].short} 
                                     </p>
                                 </div>
@@ -124,6 +114,9 @@ const getResources = async() => {
                                             ${allResources[dummy_incrementor][4].name}
                                         </h2>
                                     </a>
+                                    ${ allResources[dummy_incrementor][4].tag ? `<p class="my-2 border border-dark p-1 text-muted" style="border-radius: 1rem; font-size: 1rem">
+                                        ${allResources[dummy_incrementor][4].tag}
+                                    </p>` : "" }
                                     <p class="text-muted">
                                         ${allResources[dummy_incrementor][4].short} 
                                     </p>
@@ -146,8 +139,11 @@ const getResources = async() => {
                                             ${allResources[dummy_incrementor][5].name}
                                         </h2>
                                     </a>
+                                    ${ allResources[dummy_incrementor][5].tag ? `<p class="my-2 border border-dark p-1 text-muted" style="border-radius: 1rem; font-size: 1rem">
+                                        ${allResources[dummy_incrementor][5].tag}
+                                    </p>` : "" }
                                     <p class="text-muted">
-                                        ${allResources[dummy_incrementor][5].short} 
+                                        ${allResources[dummy_incrementor][5].short}
                                     </p>
                                 </div>
                             </div>

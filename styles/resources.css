@@ -86,6 +86,7 @@ body {
     position: relative;
     min-height: 75vh;
     width: 100vw!important;
+    margin-bottom: 4rem;
 }
 
 #podcast-card {
@@ -208,7 +209,77 @@ body {
 }
 
 #podcasts .secondary-tile {
-    background-image: url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_611453342_2000133420009280107_130377.jpg");
+    background-image: url("https://a16z.com/wp-content/uploads/2016/10/img_1307.jpg?w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#videos .primary-tile {
+    background-image: url("https://miro.medium.com/max/600/1*vOH7ixWdsC5H4IgV6TMRyA.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#videos .secondary-tile {
+    background-image: url("https://lh3.googleusercontent.com/proxy/DkyoCMwaOoe4Jx0l4dhToRwES4kuKQFoVMRMrfenevL2ZZrKKNxLQETgdmyLAjTYtoMb90IQnTtpqCFvGJk0uJvpSu2Kn2wtjuvRy1_XvYJLiLEulN-5lVnJmHIpZp3CVvfc");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#newsletter .primary-tile {
+    background-image: url("https://www.latestlaws.com/media/2020/10/1601641220-0.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#newsletter .secondary-tile {
+    background-image: url("https://media-exp1.licdn.com/dms/image/C561BAQHG2Ot4_sQdIQ/company-background_10000/0/1586805624143?e=2159024400&v=beta&t=mKairw0fHvQvkKZs6kIEsrAGeIMtWi2wGskk-hpiskw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#blogs .primary-tile {
+    background-image: url("https://cdn.techinasia.com/wp-content/uploads/2014/07/500-startups-logo1-e1424765173974.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#blogs .secondary-tile {
+    background-image: url("https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/05/sethgodin_08.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#webseries .primary-tile {
+    background-image: url("https://static1.tvfplay.com/seasons/18/aspect_large/9ef494c014c0905123780134ecea8209_Pitchers-1080x600.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#webseries .secondary-tile {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULprfF5QB-XP348pwDGl5IyRyVGpEsuHGOg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#events .primary-tile {
+    background-image: url("https://du9bj9c2s4nh.cloudfront.net/wp-content/uploads/2020/06/collision1-980x618.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#events .secondary-tile {
+    background-image: url("https://miro.medium.com/max/3000/1*km92elfTtQklWybYYqCEMQ.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -244,5 +315,8 @@ body {
     }
     .sub-heading {
         font-size: 1.3rem;
+    }
+    .side-tile {
+        height: fit-content;
     }
 }
