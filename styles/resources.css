@@ -131,8 +131,15 @@ body {
     background-position: center;
 }
 
+.black-overlay{
+    top: 0; 
+    left: 0;
+    background-color: black;
+    opacity: 0.8;
+}
+
 .primary-tile {
-    height: 60vh;
+    height: 64vh;
 }
 
 .primary-tile a {
@@ -155,7 +162,7 @@ body {
 }
 
 .secondary-tile {
-    height: 30vh;
+    height: 32vh;
 }
 
 .secondary-tile a {
@@ -178,7 +185,7 @@ body {
 }
 
 .side-tile {
-    height: 14.4vh;
+    min-height: 15.4vh;
 }
 
 .side-tile h2 {
@@ -223,21 +230,21 @@ body {
 }
 
 #videos .secondary-tile {
-    background-image: url("https://lh3.googleusercontent.com/proxy/DkyoCMwaOoe4Jx0l4dhToRwES4kuKQFoVMRMrfenevL2ZZrKKNxLQETgdmyLAjTYtoMb90IQnTtpqCFvGJk0uJvpSu2Kn2wtjuvRy1_XvYJLiLEulN-5lVnJmHIpZp3CVvfc");
+    background-image: url("https://tedxsydney.com/wp-content/uploads/2019/03/Website-banner-9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #newsletter .primary-tile {
-    background-image: url("https://www.latestlaws.com/media/2020/10/1601641220-0.png");
+    background-image: url("https://media-exp1.licdn.com/dms/image/C561BAQHG2Ot4_sQdIQ/company-background_10000/0/1586805624143?e=2159024400&v=beta&t=mKairw0fHvQvkKZs6kIEsrAGeIMtWi2wGskk-hpiskw");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #newsletter .secondary-tile {
-    background-image: url("https://media-exp1.licdn.com/dms/image/C561BAQHG2Ot4_sQdIQ/company-background_10000/0/1586805624143?e=2159024400&v=beta&t=mKairw0fHvQvkKZs6kIEsrAGeIMtWi2wGskk-hpiskw");
+    background-image: url("https://www.latestlaws.com/media/2020/10/1601641220-0.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

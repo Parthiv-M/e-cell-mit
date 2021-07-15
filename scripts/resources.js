@@ -17,9 +17,9 @@ const getResources = async() => {
         let innerHTML_container = "";
         const dataTemplate = `
         <div class="col-md-6 col-12">
-          <a href="${allResources[dummy_incrementor][0].link}" target="_blank" class="h-100 w-100">
-              <div class="p-3 primary-tile"> 
-                  <div class="container-fluid d-flex flex-column h-100 justify-content-end align-items-start">
+            <a href="${allResources[dummy_incrementor][0].link}" target="_blank" class="h-100 w-100">
+                <div class="primary-tile"> 
+                  <div class="p-md-4 p-2 container-fluid black-overlay d-flex flex-column h-100 justify-content-end align-items-start">
                       <a href="${allResources[dummy_incrementor][0].link}" target="_blank">
                         <h2 class="mb-1">${allResources[dummy_incrementor][0].name}</h2>
                       </a>
@@ -29,13 +29,13 @@ const getResources = async() => {
                       <p>${allResources[dummy_incrementor][0].short}</p>
                   </div>
               </div>
-          </a>
+            </a>
         </div>
         <div class="col-md-6 col-12"> 
             <div class="col-12">
                 <a href="${allResources[dummy_incrementor][1].link}" target="_blank" class="h-100 w-100">
-                    <div class="p-3 secondary-tile">
-                        <div class="container-fluid d-flex flex-column h-100 justify-content-start align-items-start">
+                    <div class="secondary-tile">
+                        <div class="p-3 container-fluid black-overlay d-flex flex-column h-100 justify-content-start align-items-start">
                             <a href="${allResources[dummy_incrementor][1].link}" target="_blank">
                                 <h2 class="mb-1">
                                     ${allResources[dummy_incrementor][1].name}
@@ -59,7 +59,7 @@ const getResources = async() => {
                         <a href="${allResources[dummy_incrementor][2].link}" target="_blank" class="h-100 w-100">
                             <div class="p-3 border bg-light side-tile">
                                 <div class="container-fluid d-flex flex-column h-100 justify-content-start align-items-start">
-                                    <a href="${allResources[dummy_incrementor][2].link}" target="_blank">
+                                    <a class="w-100" href="${allResources[dummy_incrementor][2].link}" target="_blank">
                                         <h2 class="mb-1">
                                             ${allResources[dummy_incrementor][2].name}
                                         </h2>
@@ -84,7 +84,7 @@ const getResources = async() => {
                         <a href="${allResources[dummy_incrementor][3].link}" target="_blank" class="h-100 w-100">
                             <div class="p-3 border bg-light side-tile">
                                 <div class="container-fluid d-flex flex-column h-100 justify-content-start align-items-start">
-                                    <a href="${allResources[dummy_incrementor][3].link}" target="_blank">
+                                    <a href="${allResources[dummy_incrementor][3].link}" target="_blank" class="text-left w-100">
                                         <h2 class="mb-1">
                                             ${allResources[dummy_incrementor][3].name}
                                         </h2>
