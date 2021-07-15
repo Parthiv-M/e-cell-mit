@@ -2,55 +2,153 @@
     {
         "podcasts": [
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "The GaryVee Audio Experience",
+                "short": "Keynote speeches on marketing and business, interviews, and fireside chats by Gary Vaynerchuck are blended with his current thoughts for an engaging audio experience",
+                "tag" : "",
+                "link": "https://podcasts.google.com/feed/aHR0cDovL2Fza2dhcnl2ZWUuZ2FyeXZlZS5saWJzeW5wcm8uY29tL3Jzcw"
             },
             {
-                "name": "xyz",
+                "name": "a16z podcast",
+                "short": "Produced by a Silicon Valley based venture capital firm, you can hear about tech and culture trends, news, and about how ‘software eats the world’ right from industry experts and business leaders",
+                "tag" : "",
+                "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9KR0UzeUMwVg"
+            },
+            {
+                "name": "Entrepreneurs on Fire",
                 "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "tag" : "",
+                "link": "https://podcasts.google.com/search/jld%20interviews"
+            },
+            {
+                "name": "The Tim Ferris Show",
+                "short": "Produced by a self-experimenter and bestselling author, Tim Ferriss deconstructs world-class professionals from diverse areas digging deep to find tools, tactics, and tricks we can use",
+                "tag" : "",
+                "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RpbS1mZXJyaXNzLXNob3c"
+            },
+            {
+                "name": "HBR Ideacast",
+                "short": "Weekly show hosted by Sarah Green Carmichael featuring lively interviews with industry professionals, scientists and journalists—some famous, others more behind the scenes—covering one general topic or issue per episode",
+                "tag" : "",
+                "link": "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0"
+            },
+            {
+                "name": "How I Built This",
+                "short": "Guy Raz dives into the stories behind some of the world's best-known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built.",
+                "tag" : "",
+                "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5ucHIub3JnLzUxMDMxMy9wb2RjYXN0LnhtbA"
             }
         ]
     },
     {
         "videos": [
             {
-                "name": "xyz",
+                "name": "Startup Grind",
                 "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "tag" : "",
+                "link": "https://www.youtube.com/user/StartupGrind"
             },
             {
-                "name": "xyz",
+                "name": "Ted Talks",
                 "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "tag" : "",
+                "link": "https://www.youtube.com/user/tedxtalks"
+            },
+            {
+                "name": "How to Evaluate Startup Ideas",
+                "short": "From searching for a problem worth solving to finding a feasible solution—a startup idea is born, and this process of analyzing startup ideas is what Kevin Hale elucidates in his videos",
+                "tag" : "",
+                "link": "https://www.youtube.com/watch?v=DOtCl5PU8F0"
+            },
+            {
+                "name": "Backstage with Millionaires",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.youtube.com/channel/UCnpekFV93kB1O0rVqEKSumg"
+            },
+            {
+                "name": "Stanford Business",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.youtube.com/user/stanfordbusiness"
+            },
+            {
+                "name": "Hubspot",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.youtube.com/user/hubspot"
+            },
+            {
+                "name": "Marie Forleo",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.youtube.com/user/marieforleo"
+            },
+            {
+                "name": "Google Small Business",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.youtube.com/user/googlebusiness"
             }
         ]
     },
     {
         "newsletter": [
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "Harvard Business Review",
+                "short": "Published six times a year, this magazine on general management provides insightful advice about how to effectively run and manage your start-up projects",
+                "tag" : "Management",
+                "link": "https://hbr.org/email-newsletters"
             },
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "YourStory",
+                "short": "YourStory is India's biggest source of start-up news, stories, and inspiring advice from the biggest and most successful entrepreneurs from diverse disciplines",
+                "tag" : "",
+                "link": "https://yourstory.com/newsletters"
+            },
+            {
+                "name": "A Junior VC",
+                "short": "From talks with budding venture capitalists to encouraging more entrepreners to realise their dreams in the global arena, A Junior VC is the right place for your start-up round-up",
+                "tag" : "Venture Capitalist",
+                "link": "https://ajuniorvc.com/"
             }
         ]
     },
     {
         "blogs": [
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "500 startups",
+                "short": "500 Startups is an early-stage venture fund and seed accelerator founded in 2010 by Dave McClure and Christine Tsai. It is a global venture capital firm with a network of startup programs for founders, mentors, and investors",
+                "tag" : "Venture Capital",
+                "link": "https://500.co/"
             },
             {
-                "name": "xyz",
+                "name": "Seth Godin's Blog",
+                "short": "Seth Godin breaks the rules, doing things his own way, and making sure the ideas he share are in the spotlight making his blog quite addictive especially to first-time readers",
+                "tag" : "",
+                "link": "https://seths.blog/"
+            },
+            {
+                "name": "Mixergy",
+                "short": "The Mixergy Mission introduces you to doers and thinkers whose ideas and stories are so powerful that just hearing them will change you. Mixergy is a place where successful people teach ambitious upstarts",
+                "tag" : "",
+                "link": "https://mixergy.com/"
+            },
+            {
+                "name": "Brian Solis",
+                "short": "Brian Solis is a globally recognized independent digital analyst, anthropologist, award-winning author, prominent blogger/writer, and world renowned keynote speaker and also hosts (r)evolution, a popular online video series that examines technology, trends and best practices",
+                "tag" : "",
+                "link": "https://www.briansolis.com/"
+            },
+            {
+                "name": "startups.com",
+                "short": "startups.com’s mission is to help bring more Founders and startups into existence by providing education and tools to walk aspiring Founders through the entire startup process",
+                "tag" : "",
+                "link": "https://www.startups.com/"
+            },
+            {
+                "name": "Under 30 Blog",
                 "short": "one",
+                "tag" : "",
                 "link": "https://beta.ecellmit.com"
             }
         ]
@@ -58,28 +156,44 @@
     {
         "webseries": [
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "TVF Pitchers",
+                "short": "Four budding entrepreneurs found a start-up only to realise that this has been what their life is all about—they were not destined for regular jobs. It also documents their subsequent journey to success",
+                "tag" : "",
+                "link": "https://www.primevideo.com/detail/Pitchers/0SP3VAOQS7VWUQCB21LPR6TBK6?ref_=dvm_pds_gen_in_as_s_gt_dsaweballd_mkw_1EJRA0tl-dc_pcrid_{adid}&mrntrk=slid__pgrid_84880667963_pgeo_9040215_x__ptid_dsa-19959388920"
             },
             {
-                "name": "xyz",
-                "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "name": "Shark Tank",
+                "short": "Primarily for entertainment, this television show will keep you hooked to it with the contestant's wild ideas and creative ventures which they hope to turn into reality with corporate support",
+                "tag" : "",
+                "link": "https://www.primevideo.com/detail/Shark-Tank/0IIHHUF3EKQEAET75E9Z0VICL9?ref_=dvm_pds_gen_in_as_s_gt_dsaweballd_mkw_1EJRA0tl-dc_pcrid_{adid}&mrntrk=slid__pgrid_84880667963_pgeo_9040215_x__ptid_dsa-19959388920"
+            },
+            {
+                "name": "Silicon Valley",
+                "short": "Sprinked with humour, this web series takes you on a virtual tour of the Silicon Valley start-up ecosystem and the challenges every small company faces in the rat-race to success",
+                "tag" : "",
+                "link": "https://www.hotstar.com/in/tv/silicon-valley/8210"
             }
         ]
     },
     {
         "events": [
             {
-                "name": "xyz",
+                "name": "Collision",
                 "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "tag" : "",
+                "link": "https://collisionconf.com/"
             },
             {
-                "name": "xyz",
+                "name": "Techstars Startup Weekend",
                 "short": "one",
-                "link": "https://beta.ecellmit.com"
+                "tag" : "",
+                "link": "https://www.techstars.com/communities/startup-weekend"
+            },
+            {
+                "name": "JAM Product Leaders Weekend",
+                "short": "one",
+                "tag" : "",
+                "link": "https://www.makingjam.io/events/product-leaders-weekend-2020"
             }
         ]
     }
