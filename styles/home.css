@@ -82,14 +82,20 @@
         display: none;
         flex-direction: column;
         margin-top: 10;
+        background-color: black;
     }
     
     .context-menu-item {
         padding: 25px;
-        border: 0.5px solid #ffffff;
+        /* border: 0.5px solid #ffffff; */
+        margin: 1px 0px;
         width: 100vw;
         background-color: #5CE1E6;
         color: #000000;
+    }
+
+    .context-menu a:nth-child(4) .context-menu-item{
+        border-radius: 0px 0px 10px 10px;
     }
     
     .context-menu-item:hover {

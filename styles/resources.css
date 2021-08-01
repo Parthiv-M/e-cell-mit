@@ -54,6 +54,10 @@ body {
     font-weight: 800;
 }
 
+.slide-heading span {
+    cursor: pointer;
+}
+
 .sub-heading {
     font-size: 2rem;
     color: #5CE1E6!important;
@@ -323,7 +327,9 @@ body {
     .sub-heading {
         font-size: 1.3rem;
     }
+    .primary-tile,
+    .secondary-tile, 
     .side-tile {
-        height: fit-content;
+        min-height: fit-content;
     }
 }

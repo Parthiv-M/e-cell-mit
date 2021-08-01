@@ -15,7 +15,7 @@
             },
             {
                 "name": "Entrepreneurs on Fire",
-                "short": "one",
+                "short": "An award-winning podcast where the host & the founder ‘John Lee Dumas’ interviews inspiring entrepreneurs to help you along your entrepreneurial journey!",
                 "tag" : "",
                 "link": "https://podcasts.google.com/search/jld%20interviews"
             },
@@ -43,13 +43,13 @@
         "videos": [
             {
                 "name": "Startup Grind",
-                "short": "one",
-                "tag" : "",
+                "short": "Startup grind is the world's largest community of startups, entrepreneurs, creators, and leaders. They dole out their expert advice to anyone who wants to learn and lead from the front",
+                "tag" : "Community",
                 "link": "https://www.youtube.com/user/StartupGrind"
             },
             {
                 "name": "Ted Talks",
-                "short": "one",
+                "short": "Ranging from real life experiences to the latest in almost every professional and non professional field, Ted Talks inspire people to be creative and be the change they want to see in the world",
                 "tag" : "Educational",
                 "link": "https://www.youtube.com/user/tedxtalks"
             },
@@ -61,31 +61,25 @@
             },
             {
                 "name": "Backstage with Millionaires",
-                "short": "one",
+                "short": "The idea behind this initiative from Prithvi and Caleb is to share interesting, entertaining, and educational content about entrepreneurship and starting up businesses, with a focus on India's startup ecosystem",
                 "tag" : "",
                 "link": "https://www.youtube.com/channel/UCnpekFV93kB1O0rVqEKSumg"
             },
             {
                 "name": "Stanford Business",
-                "short": "one",
+                "short": "Stanford Business gives the best business tips for budding entrepreneurs and professionals to manage their ventures. Learn right from qualified experts in the industry as they give sound advice on how to excel in business management",
                 "tag" : "Business",
                 "link": "https://www.youtube.com/user/stanfordbusiness"
             },
             {
                 "name": "Hubspot",
-                "short": "one",
+                "short": "Hubspot is an ecosystem uniting software and community to help businesses grow better every day. It was founded 'inbound'—the notion that people don't want to be interrupted by marketers or harassed by salespeople, but want to be helped",
                 "tag" : "",
                 "link": "https://www.youtube.com/user/hubspot"
             },
             {
-                "name": "Marie Forleo",
-                "short": "one",
-                "tag" : "",
-                "link": "https://www.youtube.com/user/marieforleo"
-            },
-            {
                 "name": "Google Small Business",
-                "short": "one",
+                "short": "Get tips and tricks from the best in the tech world on how to effectively run, manage, and lead your small businesses bymaking proper use of the availbale resources and tools, often provided by GOogle themselves",
                 "tag" : "Business",
                 "link": "https://www.youtube.com/user/googlebusiness"
             }
@@ -124,13 +118,13 @@
             {
                 "name": "Seth Godin's Blog",
                 "short": "Seth Godin breaks the rules, doing things his own way, and making sure the ideas he share are in the spotlight making his blog quite addictive especially to first-time readers",
-                "tag" : "",
+                "tag" : "Creative",
                 "link": "https://seths.blog/"
             },
             {
                 "name": "Mixergy",
                 "short": "The Mixergy Mission introduces you to doers and thinkers whose ideas and stories are so powerful that just hearing them will change you. Mixergy is a place where successful people teach ambitious upstarts",
-                "tag" : "",
+                "tag" : "Motivational",
                 "link": "https://mixergy.com/"
             },
             {
@@ -142,14 +136,14 @@
             {
                 "name": "startups.com",
                 "short": "startups.com’s mission is to help bring more Founders and startups into existence by providing education and tools to walk aspiring Founders through the entire startup process",
-                "tag" : "",
+                "tag" : "Support",
                 "link": "https://www.startups.com/"
             },
             {
                 "name": "Under 30 Blog",
-                "short": "one",
-                "tag" : "",
-                "link": "https://beta.ecellmit.com"
+                "short": "This informative blog deals with topics ranging from startup management to entrepreneurship ideas, advertisements, marketing, and running a successful business. It is a must read for any budding entrepreneur.",
+                "tag" : "Educational",
+                "link": "https://www.under30ceo.com/"
             }
         ]
     },
@@ -179,21 +173,15 @@
         "events": [
             {
                 "name": "Collision",
-                "short": "one",
+                "short": "Dubbed as the Olympics of Tech, Collision is one of the world's largest technical conferneces. Startups from around the world, led by their founders and members mingle with top compnaies and professionals from almost every technical field to make this grand event happen.",
                 "tag" : "",
                 "link": "https://collisionconf.com/"
             },
             {
                 "name": "Techstars Startup Weekend",
-                "short": "one",
+                "short": "Startup Weekend is a three-day program where aspiring entrepreneurs can experience startup life. Spanning hundreds of cities around the world, they work with leading organizations to support entrepreneurs and help them turn ideas into reality",
                 "tag" : "",
                 "link": "https://www.techstars.com/communities/startup-weekend"
-            },
-            {
-                "name": "JAM Product Leaders Weekend",
-                "short": "one",
-                "tag" : "",
-                "link": "https://www.makingjam.io/events/product-leaders-weekend-2020"
             }
         ]
     }

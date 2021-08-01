@@ -161,4 +161,11 @@ const getResources = async() => {
     }
 }
 
+// copies link to clipboard
+const copyToClipboard = (slideName) => {
+    window.location.href = `resources.html#${slideName}`;
+    var copyText = window.location.href;
+    navigator.clipboard.writeText(copyText);
+}
+
 getResources();
