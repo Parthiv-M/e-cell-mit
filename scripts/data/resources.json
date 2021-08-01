@@ -10,31 +10,31 @@
             {
                 "name": "a16z podcast",
                 "short": "Produced by a Silicon Valley based venture capital firm, you can hear about tech and culture trends, news, and about how ‘software eats the world’ right from industry experts and business leaders",
-                "tag" : "",
+                "tag" : "Latest News",
                 "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9KR0UzeUMwVg"
             },
             {
                 "name": "Entrepreneurs on Fire",
                 "short": "An award-winning podcast where the host & the founder ‘John Lee Dumas’ interviews inspiring entrepreneurs to help you along your entrepreneurial journey!",
-                "tag" : "",
+                "tag" : "Motivational",
                 "link": "https://podcasts.google.com/search/jld%20interviews"
             },
             {
                 "name": "The Tim Ferris Show",
                 "short": "Produced by a self-experimenter and bestselling author, Tim Ferriss deconstructs world-class professionals from diverse areas digging deep to find tools, tactics, and tricks we can use",
-                "tag" : "",
+                "tag" : "Self Learning",
                 "link": "https://tim.blog/podcast/"
             },
             {
                 "name": "HBR Ideacast",
                 "short": "Weekly show hosted by Sarah Green Carmichael featuring lively interviews with industry professionals, scientists and journalists—some famous, others more behind the scenes—covering one general topic or issue per episode",
-                "tag" : "",
+                "tag" : "Expert Talk",
                 "link": "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0"
             },
             {
                 "name": "How I Built This",
                 "short": "Guy Raz dives into the stories behind some of the world's best-known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built.",
-                "tag" : "",
+                "tag" : "Informative",
                 "link": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5ucHIub3JnLzUxMDMxMy9wb2RjYXN0LnhtbA"
             }
         ]
@@ -56,7 +56,7 @@
             {
                 "name": "How to Evaluate Startup Ideas",
                 "short": "From searching for a problem worth solving to finding a feasible solution—a startup idea is born, and this process of analyzing startup ideas is what Kevin Hale elucidates in his videos",
-                "tag" : "",
+                "tag" : "Self Learning",
                 "link": "https://www.youtube.com/watch?v=DOtCl5PU8F0"
             },
             {
@@ -74,7 +74,7 @@
             {
                 "name": "Hubspot",
                 "short": "Hubspot is an ecosystem uniting software and community to help businesses grow better every day. It was founded 'inbound'—the notion that people don't want to be interrupted by marketers or harassed by salespeople, but want to be helped",
-                "tag" : "",
+                "tag" : "Community",
                 "link": "https://www.youtube.com/user/hubspot"
             },
             {
@@ -130,7 +130,7 @@
             {
                 "name": "Brian Solis",
                 "short": "Brian Solis is a globally recognized independent digital analyst, anthropologist, award-winning author, prominent blogger/writer, and world renowned keynote speaker and also hosts (r)evolution, a popular online video series that examines technology, trends and best practices",
-                "tag" : "",
+                "tag" : "Informative",
                 "link": "https://www.briansolis.com/"
             },
             {
@@ -141,7 +141,7 @@
             },
             {
                 "name": "Under 30 Blog",
-                "short": "This informative blog deals with topics ranging from startup management to entrepreneurship ideas, advertisements, marketing, and running a successful business. It is a must read for any budding entrepreneur.",
+                "short": "This informative blog deals with topics ranging from startup management to entrepreneurship ideas, advertisements, marketing, and running a successful business.",
                 "tag" : "Educational",
                 "link": "https://www.under30ceo.com/"
             }
