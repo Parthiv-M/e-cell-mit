@@ -351,12 +351,6 @@
         text-align: left;
     }
 
-    .directors-note p:nth-child(5) {
-        font-size: 1.5rem;
-        line-height: 1.7rem;
-        font-family: 'Calligraffitti', cursive;
-    }
-
     .directors-note h3 {
         font-size: 3rem;
         font-weight: bold;
