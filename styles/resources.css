@@ -93,6 +93,18 @@ body {
     margin-bottom: 4rem;
 }
 
+.home-button {
+    background-color: #5CE1E6;
+    text-decoration: none;
+    color: #1b1b1b;
+}
+
+.home-button:hover {
+    cursor: pointer;
+    background-color: white;    
+    color: #5CE1E6;
+}
+
 #podcast-card {
     background-image: url("./../images/learning/podcast.jpeg");
     background-repeat: no-repeat;
