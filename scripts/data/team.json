@@ -63,5 +63,13 @@
         "email": "raghavahuja013@gmail.com",
         "linkedin": "https://www.linkedin.com/mwlite/in/raghav-ahuja-501404192",
         "instagram": "https://www.instagram.com/souldi3r/"
-    }
+    },
+    {
+        "name": "Saif Sarkar",
+        "position": "SM and Marketing Head",
+        "imgURL": "./images/team/saif.jpg",
+        "email": "saifsarkar999@gmail.com",
+        "instagram": "https://www.instagram.com/__mr.n.o.b.o.d.y__/",
+        "linkedin": "https://www.linkedin.com/in/saif-sarkar-39bba01b8"
+    },
 ]
