@@ -1,74 +1,67 @@
 [   
     {
-        "name": "Ankit Jajoo",
+        "name": "Shroat Mehta",
         "position": "Deputy Chairperson",
-        "imgURL": "./images/team/AnkitJajoo.jpg",
-        "phone": "+919340891315",
-        "email": "ankit.jajoo369@gmail.com",
-        "instagram": "https://www.instagram.com/ankit.jajoo47",
-        "linkedin": "https://www.linkedin.com/in/ankit-jajoo-2015431b0/"
+        "imgURL": "./images/team/shroat.jpg",
+        "email": "shroatm1234@gmail.com",
+        "instagram": "https://www.instagram.com/mehta_shroat/",
+        "linkedin": "https://www.linkedin.com/in/shroatmehta/"
 
     },
     {
-        "name": "Dhwanit Shah",
+        "name": "Saish Shetty",
         "position": "Chairperson",
-        "imgURL": "./images/team/DhwanitShah.jpg",
-        "phone": "+919979853462",
-        "email": "dhwanpshah@gmail.com",
-        "instagram": "http://instagram.com/shah_dhwanit",
-        "linkedin": "https://www.linkedin.com/in/dhwanit-shah-301b0a159"
+        "imgURL": "./images/team/saish.jpg",
+        "email": "shettysaish20@gmail.com",
+        "instagram": "https://www.instagram.com/_saishshetty/",
+        "linkedin": "https://www.linkedin.com/in/saish-shetty-925641151/"
     },
     {
-        "name": "Armaan Charania",
+        "name": "Ujjwal Somani",
         "position": "Deputy Chairperson",
-        "imgURL": "./images/team/ArmaanCharania.jpg",
-        "phone": "+917378833923",
-        "email": "armaan.charania9@gmail.com",
-        "instagram": "https://www.instagram.com/arm._.aan",
-        "linkedin": "https://www.linkedin.com/in/armaan-charania-2a5008194"
+        "imgURL": "./images/team/ujjwal.jpg",
+        "email": "ujjwalsomani08@gmail.com",
+        "instagram": "https://www.instagram.com/ujjwalsomani1308/",
+        "linkedin": "https://www.linkedin.com/in/ujjwal-somani-aa95321ab"
     },
     {
-        "name": "Gaurav Dugar",
-        "position": "Operations and Logistics Head",
-        "imgURL": "./images/team/GauravDugar.jpg",
-        "phone": "+91757502550",
-        "email": "gaurav.dugar555@gmail.com",
-        "instagram": "https://www.instagram.com/thegauravdugar/",
-        "linkedin": "https://www.linkedin.com/in/gaurav-dugar-599618157"
+        "name": "Keshav Kishore",
+        "position": "Events and Operations Head",
+        "imgURL": "./images/team/keshav.jpg",
+        "email": "keshavkishor77@gmail.com",
+        "instagram": "https://www.instagram.com/the_mechhead/",
+        "linkedin": "https://www.linkedin.com/in/keshav-kishor-9a4635198/"
     },
     {
-        "name": "K Mohit Rao",
+        "name": "Mitul Ganguly",
         "position": "Corporate and Alumni Relations Head",
-        "imgURL": "./images/team/MohitRao.jpg",
-        "phone": "+919833714056",
-        "email": "kmohitrao7@gmail.com",
-        "instagram": "https://www.instagram.com/kmohitrao/",
-        "linkedin": "https://www.linkedin.com/in/kmohitrao/"
+        "imgURL": "./images/team/mitul.jpg",
+        "email": "mitulganguly26@gmail.com",
+        "instagram": "https://www.instagram.com/mitul_ganguly/",
+        "linkedin": "https://www.linkedin.com/in/mitul-ganguly-85a58a199"
     },
     {
-        "name": "Riya Jain",
+        "name": "Vaidehi Patel",
         "position": "Student Outreach Head",
-        "imgURL": "./images/team/RiyaJain.jpg",
-        "phone": "+918976241195",
-        "email": "riyajn1102@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/riya-jain-054ab219b",
-        "instagram": "https://www.instagram.com/riya_jn"
+        "imgURL": "./images/team/vaidehi.jpg",
+        "email": "vaidehi.patel.001@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/vaidehi-patel-2953b11b6",
+        "instagram": "https://www.instagram.com/___vaidehiii/"
     },
     {
-        "name": "Stuti Sinha",
+        "name": "Aryan Khemka",
         "position": "Graphics Head",
         "imgURL": "./images/team/StutiSinha.jpg",
-        "phone": "+919940027920",
-        "email": "stutis2000@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/stuti-sinha-74b78420b",
-        "instagram": "https://www.instagram.com/stuts2000"
+        "email": "aryan999khemka@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/aryan-khemka-626352192",
+        "instagram": "https://instagram.com/aryaan.man"
     },
     {
-        "name": "Ashwin Suresh",
+        "name": "Raghav Ahuja",
         "position": "Content Head",
-        "imgURL": "./images/team/AshwinSuresh.png",
-        "phone": "+919482639220",
-        "linkedin": " https://www.linkedin.com/in/ashwin-suresh-572109138",
-        "instagram": "https://www.instagram.com/ash_808_"
+        "imgURL": "./images/team/raghav.png",
+        "email": "raghavahuja013@gmail.com",
+        "linkedin": "https://www.linkedin.com/mwlite/in/raghav-ahuja-501404192",
+        "instagram": "https://www.instagram.com/souldi3r/"
     }
 ]
